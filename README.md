@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"/>
-  <h1 style="border-bottom: none;">Hi there, I'm Kadxy</h1>
-</div>
+# 👋 Hi there, I'm Kadxy
 
 ### 👨‍💻 About Me
 
