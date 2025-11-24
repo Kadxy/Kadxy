@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Kadxy</h1>
+  <h2>Hi there, I'm Kadxy</h2>
   <p>
-    <b>A self-taught Full Stack Developer driven by curiosity (and a bit of OCD).</b>
+    <b>A self-taught Full Stack Developer driven by curiosity (and serious OCD).</b>
   </p>
 </div>
 
@@ -11,7 +11,7 @@
 
 - 🔭 **I’m currently working on**: Developing **Full-stack Web Apps** & maintaining private tools.
 - 🌱 **I’m currently learning**: **Web3 / DApps** & **System Internals**.
-- ⚡ **Fun fact**: I'm an **ISFP**, navigating the logic world with an artist's mindset.
+- ⚡ **Fun fact**: I'm an **ISFP**, though I'm still figuring out if the label fits!
 - 🛠 **Workflow**: I prefer **ORM** over raw SQL (productivity first!) and love building with the **Next.js + NestJS** combo.
 
 ### 🚀 Tech Stack
