@@ -10,10 +10,6 @@
 
 ### 👨‍💻 About Me
 
-It all started with a pixel-perfect obsession. I dove into coding just to fix a UI glitch in a friend's project, and I haven't looked back since. 
-
-I learned JavaScript and TypeScript from scratch with the help of AI, eventually expanding my horizon to the full modern web ecosystem.
-
 - 🔭 **I’m currently working on**: Developing **Full-stack Web Apps** & maintaining private tools.
 - 🌱 **I’m currently learning**: **Web3 / DApps** & **System Internals**.
 - ⚡ **Fun fact**: I'm an **ISFP**, navigating the logic world with an artist's mindset.
@@ -22,7 +18,7 @@ I learned JavaScript and TypeScript from scratch with the help of AI, eventually
 ### 🚀 Tech Stack
 
 | Category | Technologies |
-|Str|Str|
+| :--- | :--- |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
@@ -31,12 +27,7 @@ I learned JavaScript and TypeScript from scratch with the help of AI, eventually
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kadxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Kadxy's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css" alt="Top Languages" />
-</p>
-
-### 📬 Connect
-
-[![Email](https://img.shields.io/badge/Email-linghaokai1025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linghaokai1025@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kadxy&show_icons=true&theme=buefy&hide_border=true&count_private=true&hide_rank=true" height="180" alt="Kadxy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadxy&layout=compact&theme=buefy&hide_border=true&langs_count=6&hide=html,css" height="180" alt="Top Languages" />
+</div>
