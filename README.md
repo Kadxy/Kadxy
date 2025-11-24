@@ -19,6 +19,8 @@ I'm a Full Stack Developer, fueled by curiosity and serious OCD.
 | **Data & Cloud** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | **Tools & Env** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
+### 📊 GitHub Stats
+
 <div align="center">
     <a href="https://github.com/Kadxy">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kadxy&theme=default&hide_border=true&background=00000000&ring=000000&fire=000000&currStreakNum=333333&sideNums=333333&currStreakLabel=000000&sideLabels=000000&dates=333333" height="150" alt="Kadxy's Streak" />
