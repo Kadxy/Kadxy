@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"/>
+  <h1>Hi there, I'm Kadxy</h1>
+  <p>
+    <b>A self-taught Full Stack Developer driven by curiosity (and a bit of OCD).</b>
+  </p>
+</div>
 
-<!--
-**Kadxy/Kadxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It all started with a pixel-perfect obsession. I dove into coding just to fix a UI glitch in a friend's project, and I haven't looked back since. 
+
+I learned JavaScript and TypeScript from scratch with the help of AI, eventually expanding my horizon to the full modern web ecosystem.
+
+- 🔭 **I’m currently working on**: Developing **Full-stack Web Apps** & maintaining private tools.
+- 🌱 **I’m currently learning**: **Web3 / DApps** & **System Internals**.
+- ⚡ **Fun fact**: I'm an **ISFP**, navigating the logic world with an artist's mindset.
+- 🛠 **Workflow**: I prefer **ORM** over raw SQL (productivity first!) and love building with the **Next.js + NestJS** combo.
+
+### 🚀 Tech Stack
+
+| Category | Technologies |
+|Str|Str|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Data & Cloud** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)|
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kadxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Kadxy's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css" alt="Top Languages" />
+</p>
+
+### 📬 Connect
+
+[![Email](https://img.shields.io/badge/Email-linghaokai1025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linghaokai1025@gmail.com)
