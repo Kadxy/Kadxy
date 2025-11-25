@@ -6,7 +6,6 @@ I'm a Full Stack Developer, fueled by curiosity and serious OCD.
 
 - 🔭 **I’m currently working on**: Developing **Full-stack Web Apps** & maintaining private tools.
 - 🌱 **I’m currently learning**: **Web3 / DApps** & **System Internals**.
-- ⚡ **Fun fact**: I'm an **ISFP**, though I'm still figuring out if the label fits!
 - 🛠 **Workflow**: I prefer **ORM** over raw SQL (productivity first!) and love building with the **Next.js + NestJS** combo.
 
 ### 🚀 Tech Stack
